@@ -1,1 +1,1 @@
-Just a piush
+Just a push
